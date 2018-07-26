@@ -1,3 +1,3 @@
 # FirmwareChecker
 
-to run 'python firmwarechecker.py'
+run `python firmwarechecker.py`
