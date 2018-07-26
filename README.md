@@ -1,9 +1,9 @@
 # FirmwareChecker
 
-1.`git clone https://github.com/nostalg1a/FirmwareChecker.git`
+1.`Git Clone https://github.com/nostalg1a/FirmwareChecker.git`
 
-2.`cd desktop`
+2.`cd Desktop`
 
 3.`cd FirmwareChecker`
 
-4.`python firmwarechecker.py`
+4.`Python FirmwareChecker.py`
