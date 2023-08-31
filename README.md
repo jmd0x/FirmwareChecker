@@ -1,6 +1,6 @@
 # FirmwareChecker
 
-1.`Git Clone https://github.com/n-stalgia/FirmwareChecker.git`
+1.`Git Clone https://github.com/jmdox/FirmwareChecker.git`
 
 2.`cd Desktop`
 
